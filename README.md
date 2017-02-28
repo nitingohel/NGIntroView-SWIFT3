@@ -1,6 +1,8 @@
 # NGIntroView-SWIFT3
 NGIntroView is a Swift- 3 Demo by using EAIntroView cocoapods Following is a steps are how to making IntroView in Swift-3 by using EAIntroView
 
+# RunTime Output
+![ScreenShot](https://github.com/nitingohel/NGIntroView-SWIFT3/blob/master/intro.gif)
 
 # Add EAIntroView In your Project.
 
